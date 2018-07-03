@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10340d65-9567-4c27-9669-79f94ac1ca55" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$avanzarDiapositiva_call.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$cargarPresentacion_call.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$regresarDiapositiva_call.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$subrayarDiapositiva_call.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$avanzarDiapositiva$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$avanzarDiapositiva.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$cargarPresentacion$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$cargarPresentacion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$regresarDiapositiva$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$regresarDiapositiva.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$subrayarDiapositiva$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$subrayarDiapositiva.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$avanzarDiapositiva.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$cargarPresentacion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$regresarDiapositiva.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$subrayarDiapositiva.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$avanzarDiapositiva_args$_Fields.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$avanzarDiapositiva_args$avanzarDiapositiva_argsStandardScheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$avanzarDiapositiva_args$avanzarDiapositiva_argsStandardSchemeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$avanzarDiapositiva_args$avanzarDiapositiva_argsTupleScheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$avanzarDiapositiva_args$avanzarDiapositiva_argsTupleSchemeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$avanzarDiapositiva_args.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$avanzarDiapositiva_result$_Fields.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$avanzarDiapositiva_result$avanzarDiapositiva_resultStandardScheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$avanzarDiapositiva_result$avanzarDiapositiva_resultStandardSchemeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$avanzarDiapositiva_result$avanzarDiapositiva_resultTupleScheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$avanzarDiapositiva_result$avanzarDiapositiva_resultTupleSchemeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$avanzarDiapositiva_result.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$cargarPresentacion_args$_Fields.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$cargarPresentacion_args$cargarPresentacion_argsStandardScheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$cargarPresentacion_args$cargarPresentacion_argsStandardSchemeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$cargarPresentacion_args$cargarPresentacion_argsTupleScheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$cargarPresentacion_args$cargarPresentacion_argsTupleSchemeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$cargarPresentacion_args.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$cargarPresentacion_result$_Fields.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$cargarPresentacion_result$cargarPresentacion_resultStandardScheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$cargarPresentacion_result$cargarPresentacion_resultStandardSchemeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$cargarPresentacion_result$cargarPresentacion_resultTupleScheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$cargarPresentacion_result$cargarPresentacion_resultTupleSchemeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$cargarPresentacion_result.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$regresarDiapositiva_args$_Fields.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$regresarDiapositiva_args$regresarDiapositiva_argsStandardScheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$regresarDiapositiva_args$regresarDiapositiva_argsStandardSchemeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$regresarDiapositiva_args$regresarDiapositiva_argsTupleScheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$regresarDiapositiva_args$regresarDiapositiva_argsTupleSchemeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$regresarDiapositiva_args.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$regresarDiapositiva_result$_Fields.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$regresarDiapositiva_result$regresarDiapositiva_resultStandardScheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$regresarDiapositiva_result$regresarDiapositiva_resultStandardSchemeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$regresarDiapositiva_result$regresarDiapositiva_resultTupleScheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$regresarDiapositiva_result$regresarDiapositiva_resultTupleSchemeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$regresarDiapositiva_result.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$subrayarDiapositiva_args$_Fields.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$subrayarDiapositiva_args$subrayarDiapositiva_argsStandardScheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$subrayarDiapositiva_args$subrayarDiapositiva_argsStandardSchemeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$subrayarDiapositiva_args$subrayarDiapositiva_argsTupleScheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$subrayarDiapositiva_args$subrayarDiapositiva_argsTupleSchemeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$subrayarDiapositiva_args.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$subrayarDiapositiva_result$_Fields.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$subrayarDiapositiva_result$subrayarDiapositiva_resultStandardScheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$subrayarDiapositiva_result$subrayarDiapositiva_resultStandardSchemeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$subrayarDiapositiva_result$subrayarDiapositiva_resultTupleScheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$subrayarDiapositiva_result$subrayarDiapositiva_resultTupleSchemeFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$subrayarDiapositiva_result.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/CargaEducativaJpaController.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/CargaEducativaJpaController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/Servidor.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/Servidor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$10.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$102.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$102.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$106.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$106.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$110.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$110.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$114.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$114.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$118.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$118.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$122.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$122.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$126.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$126.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$130.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$130.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$134.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$134.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$138.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$138.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$14.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$142.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$142.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$146.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$146.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$150.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$150.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$154.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$154.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$158.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$158.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$18.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$2.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$22.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$22.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$26.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$26.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$30.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$30.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$34.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$34.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$38.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$38.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$42.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$42.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$46.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$46.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$50.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$50.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$54.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$54.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$58.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$58.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$6.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$62.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$62.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$66.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$66.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$70.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$70.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$74.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$74.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$78.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$78.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$82.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$82.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$86.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$86.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$90.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$90.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$94.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$94.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$98.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$98.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$Factory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$Factory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$actualizarParticipantes_call.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$actualizarParticipantes_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$actualizarUsuariosConectados_call.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$actualizarUsuariosConectados_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$entrarAula_call.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$entrarAula_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$enviarMensaje_call.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$enviarMensaje_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$iniciarSesion_call.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$iniciarSesion_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$inscribirClase_call.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$inscribirClase_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$obtenerClasesUsuario_call.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$obtenerClasesUsuario_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$obtenerClases_call.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$obtenerClases_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$obtenerMaestros_call.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$obtenerMaestros_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$obtenerPeriodos_call.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$obtenerPeriodos_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$otorgarParticipacion_call.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$otorgarParticipacion_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$pedirParticipacion_call.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$pedirParticipacion_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$recibirMensaje_call.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$recibirMensaje_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$registrarClase_call.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$registrarClase_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$registrarse_call.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$registrarse_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$salirAula_call.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient$salirAula_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncIface.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncIface.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$actualizarParticipantes$1.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$actualizarParticipantes$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$actualizarParticipantes.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$actualizarParticipantes.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$actualizarUsuariosConectados$1.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$actualizarUsuariosConectados$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$actualizarUsuariosConectados.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$actualizarUsuariosConectados.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$entrarAula$1.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$entrarAula$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$entrarAula.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$entrarAula.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$enviarMensaje$1.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$enviarMensaje$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$enviarMensaje.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$enviarMensaje.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$iniciarSesion$1.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$iniciarSesion$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$iniciarSesion.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$iniciarSesion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$inscribirClase$1.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$inscribirClase$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$inscribirClase.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$inscribirClase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$obtenerClases$1.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$obtenerClases$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$obtenerClases.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$obtenerClases.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$obtenerClasesUsuario$1.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$obtenerClasesUsuario$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$obtenerClasesUsuario.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$obtenerClasesUsuario.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$obtenerMaestros$1.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$obtenerMaestros$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$obtenerMaestros.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$obtenerMaestros.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$obtenerPeriodos$1.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$obtenerPeriodos$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$obtenerPeriodos.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$obtenerPeriodos.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$otorgarParticipacion$1.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$otorgarParticipacion$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$otorgarParticipacion.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$otorgarParticipacion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$pedirParticipacion$1.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$pedirParticipacion$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$pedirParticipacion.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$pedirParticipacion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$recibirMensaje$1.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$recibirMensaje$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$recibirMensaje.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$recibirMensaje.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$registrarClase$1.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$registrarClase$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$registrarClase.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$registrarClase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$registrarse$1.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$registrarse$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$registrarse.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$registrarse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$salirAula$1.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$salirAula$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$salirAula.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor$salirAula.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$AsyncProcessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Client$Factory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Client$Factory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Client.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Client.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Iface.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Iface.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$actualizarParticipantes.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$actualizarParticipantes.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$actualizarUsuariosConectados.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$actualizarUsuariosConectados.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$entrarAula.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$entrarAula.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$enviarMensaje.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$enviarMensaje.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$iniciarSesion.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$iniciarSesion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$inscribirClase.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$inscribirClase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$obtenerClases.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$obtenerClases.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$obtenerClasesUsuario.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$obtenerClasesUsuario.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$obtenerMaestros.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$obtenerMaestros.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$obtenerPeriodos.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$obtenerPeriodos.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$otorgarParticipacion.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$otorgarParticipacion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$pedirParticipacion.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$pedirParticipacion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$recibirMensaje.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$recibirMensaje.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$registrarClase.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$registrarClase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$registrarse.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$registrarse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$salirAula.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor$salirAula.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$Processor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_args$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_args$actualizarParticipantes_argsStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_args$actualizarParticipantes_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_args$actualizarParticipantes_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_args$actualizarParticipantes_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_args$actualizarParticipantes_argsTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_args$actualizarParticipantes_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_args$actualizarParticipantes_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_args$actualizarParticipantes_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_args.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_result$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_result$actualizarParticipantes_resultStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_result$actualizarParticipantes_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_result$actualizarParticipantes_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_result$actualizarParticipantes_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_result$actualizarParticipantes_resultTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_result$actualizarParticipantes_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_result$actualizarParticipantes_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_result$actualizarParticipantes_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_result.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarParticipantes_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_args$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_args$actualizarUsuariosConectados_argsStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_args$actualizarUsuariosConectados_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_args$actualizarUsuariosConectados_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_args$actualizarUsuariosConectados_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_args$actualizarUsuariosConectados_argsTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_args$actualizarUsuariosConectados_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_args$actualizarUsuariosConectados_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_args$actualizarUsuariosConectados_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_args.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_result$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_result$actualizarUsuariosConectados_resultStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_result$actualizarUsuariosConectados_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_result$actualizarUsuariosConectados_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_result$actualizarUsuariosConectados_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_result$actualizarUsuariosConectados_resultTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_result$actualizarUsuariosConectados_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_result$actualizarUsuariosConectados_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_result$actualizarUsuariosConectados_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_result.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$actualizarUsuariosConectados_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_args$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_args$entrarAula_argsStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_args$entrarAula_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_args$entrarAula_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_args$entrarAula_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_args$entrarAula_argsTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_args$entrarAula_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_args$entrarAula_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_args$entrarAula_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_args.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_result$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_result$entrarAula_resultStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_result$entrarAula_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_result$entrarAula_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_result$entrarAula_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_result$entrarAula_resultTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_result$entrarAula_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_result$entrarAula_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_result$entrarAula_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_result.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$entrarAula_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_args$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_args$enviarMensaje_argsStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_args$enviarMensaje_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_args$enviarMensaje_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_args$enviarMensaje_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_args$enviarMensaje_argsTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_args$enviarMensaje_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_args$enviarMensaje_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_args$enviarMensaje_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_args.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_result$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_result$enviarMensaje_resultStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_result$enviarMensaje_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_result$enviarMensaje_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_result$enviarMensaje_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_result$enviarMensaje_resultTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_result$enviarMensaje_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_result$enviarMensaje_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_result$enviarMensaje_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_result.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$enviarMensaje_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_args$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_args$iniciarSesion_argsStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_args$iniciarSesion_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_args$iniciarSesion_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_args$iniciarSesion_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_args$iniciarSesion_argsTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_args$iniciarSesion_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_args$iniciarSesion_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_args$iniciarSesion_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_args.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_result$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_result$iniciarSesion_resultStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_result$iniciarSesion_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_result$iniciarSesion_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_result$iniciarSesion_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_result$iniciarSesion_resultTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_result$iniciarSesion_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_result$iniciarSesion_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_result$iniciarSesion_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_result.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$iniciarSesion_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_args$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_args$inscribirClase_argsStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_args$inscribirClase_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_args$inscribirClase_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_args$inscribirClase_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_args$inscribirClase_argsTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_args$inscribirClase_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_args$inscribirClase_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_args$inscribirClase_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_args.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_result$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_result$inscribirClase_resultStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_result$inscribirClase_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_result$inscribirClase_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_result$inscribirClase_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_result$inscribirClase_resultTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_result$inscribirClase_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_result$inscribirClase_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_result$inscribirClase_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_result.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$inscribirClase_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_args$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_args$obtenerClasesUsuario_argsStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_args$obtenerClasesUsuario_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_args$obtenerClasesUsuario_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_args$obtenerClasesUsuario_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_args$obtenerClasesUsuario_argsTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_args$obtenerClasesUsuario_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_args$obtenerClasesUsuario_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_args$obtenerClasesUsuario_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_args.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_result$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_result$obtenerClasesUsuario_resultStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_result$obtenerClasesUsuario_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_result$obtenerClasesUsuario_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_result$obtenerClasesUsuario_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_result$obtenerClasesUsuario_resultTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_result$obtenerClasesUsuario_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_result$obtenerClasesUsuario_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_result$obtenerClasesUsuario_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_result.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClasesUsuario_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_args$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_args$obtenerClases_argsStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_args$obtenerClases_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_args$obtenerClases_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_args$obtenerClases_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_args$obtenerClases_argsTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_args$obtenerClases_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_args$obtenerClases_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_args$obtenerClases_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_args.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_result$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_result$obtenerClases_resultStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_result$obtenerClases_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_result$obtenerClases_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_result$obtenerClases_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_result$obtenerClases_resultTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_result$obtenerClases_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_result$obtenerClases_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_result$obtenerClases_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_result.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerClases_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_args$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_args$obtenerMaestros_argsStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_args$obtenerMaestros_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_args$obtenerMaestros_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_args$obtenerMaestros_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_args$obtenerMaestros_argsTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_args$obtenerMaestros_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_args$obtenerMaestros_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_args$obtenerMaestros_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_args.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_result$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_result$obtenerMaestros_resultStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_result$obtenerMaestros_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_result$obtenerMaestros_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_result$obtenerMaestros_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_result$obtenerMaestros_resultTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_result$obtenerMaestros_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_result$obtenerMaestros_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_result$obtenerMaestros_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_result.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerMaestros_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_args$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_args$obtenerPeriodos_argsStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_args$obtenerPeriodos_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_args$obtenerPeriodos_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_args$obtenerPeriodos_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_args$obtenerPeriodos_argsTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_args$obtenerPeriodos_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_args$obtenerPeriodos_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_args$obtenerPeriodos_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_args.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_result$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_result$obtenerPeriodos_resultStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_result$obtenerPeriodos_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_result$obtenerPeriodos_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_result$obtenerPeriodos_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_result$obtenerPeriodos_resultTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_result$obtenerPeriodos_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_result$obtenerPeriodos_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_result$obtenerPeriodos_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_result.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$obtenerPeriodos_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_args$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_args$otorgarParticipacion_argsStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_args$otorgarParticipacion_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_args$otorgarParticipacion_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_args$otorgarParticipacion_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_args$otorgarParticipacion_argsTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_args$otorgarParticipacion_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_args$otorgarParticipacion_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_args$otorgarParticipacion_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_args.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_result$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_result$otorgarParticipacion_resultStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_result$otorgarParticipacion_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_result$otorgarParticipacion_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_result$otorgarParticipacion_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_result$otorgarParticipacion_resultTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_result$otorgarParticipacion_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_result$otorgarParticipacion_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_result$otorgarParticipacion_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_result.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$otorgarParticipacion_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_args$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_args$pedirParticipacion_argsStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_args$pedirParticipacion_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_args$pedirParticipacion_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_args$pedirParticipacion_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_args$pedirParticipacion_argsTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_args$pedirParticipacion_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_args$pedirParticipacion_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_args$pedirParticipacion_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_args.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_result$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_result$pedirParticipacion_resultStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_result$pedirParticipacion_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_result$pedirParticipacion_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_result$pedirParticipacion_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_result$pedirParticipacion_resultTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_result$pedirParticipacion_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_result$pedirParticipacion_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_result$pedirParticipacion_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_result.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$pedirParticipacion_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_args$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_args$recibirMensaje_argsStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_args$recibirMensaje_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_args$recibirMensaje_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_args$recibirMensaje_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_args$recibirMensaje_argsTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_args$recibirMensaje_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_args$recibirMensaje_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_args$recibirMensaje_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_args.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_result$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_result$recibirMensaje_resultStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_result$recibirMensaje_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_result$recibirMensaje_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_result$recibirMensaje_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_result$recibirMensaje_resultTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_result$recibirMensaje_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_result$recibirMensaje_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_result$recibirMensaje_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_result.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$recibirMensaje_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_args$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_args$registrarClase_argsStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_args$registrarClase_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_args$registrarClase_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_args$registrarClase_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_args$registrarClase_argsTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_args$registrarClase_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_args$registrarClase_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_args$registrarClase_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_args.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_result$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_result$registrarClase_resultStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_result$registrarClase_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_result$registrarClase_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_result$registrarClase_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_result$registrarClase_resultTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_result$registrarClase_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_result$registrarClase_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_result$registrarClase_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_result.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarClase_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_args$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_args$registrarse_argsStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_args$registrarse_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_args$registrarse_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_args$registrarse_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_args$registrarse_argsTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_args$registrarse_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_args$registrarse_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_args$registrarse_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_args.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_result$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_result$registrarse_resultStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_result$registrarse_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_result$registrarse_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_result$registrarse_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_result$registrarse_resultTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_result$registrarse_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_result$registrarse_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_result$registrarse_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_result.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$registrarse_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_args$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_args$salirAula_argsStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_args$salirAula_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_args$salirAula_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_args$salirAula_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_args$salirAula_argsTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_args$salirAula_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_args$salirAula_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_args$salirAula_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_args.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_result$_Fields.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_result$salirAula_resultStandardScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_result$salirAula_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_result$salirAula_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_result$salirAula_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_result$salirAula_resultTupleScheme.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_result$salirAula_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_result$salirAula_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_result$salirAula_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_result.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios$salirAula_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/aulavirtual/servicios.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/basededatos/CargaEducativaPK_.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/basededatos/CargaEducativaPK_.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/basededatos/CargaEducativa_.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/basededatos/CargaEducativa_.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/basededatos/Clase.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/basededatos/Clase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/basededatos/Clase_.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/basededatos/Clase_.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/basededatos/Periodo_.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/basededatos/Periodo_.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/basededatos/Usuario_.class" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/basededatos/Usuario_.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Código/AulaVirtualClient/Clases/Implementacion.py" afterPath="$PROJECT_DIR$/../../Código/AulaVirtualClient/Clases/Implementacion.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Código/AulaVirtualClient/Clases/Server.py" afterPath="$PROJECT_DIR$/../../Código/AulaVirtualClient/Clases/Server.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Código/AulaVirtualClient/Clases/Window_login.py" afterPath="$PROJECT_DIR$/../../Código/AulaVirtualClient/Clases/Window_login.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Código/AulaVirtualClient/Clases/Window_virtual_classroom.py" afterPath="$PROJECT_DIR$/../../Código/AulaVirtualClient/Clases/Window_virtual_classroom.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Código/AulaVirtualClient/Clases/gen-py/aulavirtual/servicios-remote" afterPath="$PROJECT_DIR$/../../Código/AulaVirtualClient/Clases/gen-py/aulavirtual/servicios-remote" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Código/AulaVirtualClient/Clases/gen-py/aulavirtual/servicios.py" afterPath="$PROJECT_DIR$/../../Código/AulaVirtualClient/Clases/gen-py/aulavirtual/servicios.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Aula virtual_thrift/gen-java/aulavirtual/servicios.java" afterPath="$PROJECT_DIR$/../Aula virtual_thrift/gen-java/aulavirtual/servicios.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Aula virtual_thrift/gen-py/aulavirtual/servicios-remote" afterPath="$PROJECT_DIR$/../Aula virtual_thrift/gen-py/aulavirtual/servicios-remote" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Aula virtual_thrift/gen-py/aulavirtual/servicios.py" afterPath="$PROJECT_DIR$/../Aula virtual_thrift/gen-py/aulavirtual/servicios.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Aula virtual_thrift/servicios.thrift" afterPath="$PROJECT_DIR$/../Aula virtual_thrift/servicios.thrift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clases/Implementacion.py" afterPath="$PROJECT_DIR$/Clases/Implementacion.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clases/Server.py" afterPath="$PROJECT_DIR$/Clases/Server.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clases/Window_login.py" afterPath="$PROJECT_DIR$/Clases/Window_login.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clases/Window_registry_student.py" afterPath="$PROJECT_DIR$/Clases/Window_registry_student.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clases/Window_virtual_classroom.py" afterPath="$PROJECT_DIR$/Clases/Window_virtual_classroom.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clases/gen-py/aulavirtual/servicios-remote" afterPath="$PROJECT_DIR$/Clases/gen-py/aulavirtual/servicios-remote" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clases/gen-py/aulavirtual/servicios.py" afterPath="$PROJECT_DIR$/Clases/gen-py/aulavirtual/servicios.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/build/classes/META-INF/persistence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/nbproject/project.properties" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/nbproject/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/src/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/src/META-INF/persistence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/CargaEducativaJpaController.java" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/CargaEducativaJpaController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/ClaseJpaController.java" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/ClaseJpaController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/PeriodoJpaController.java" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/PeriodoJpaController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/Servidor.java" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/Servidor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/UsuarioJpaController.java" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/UsuarioJpaController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/exceptions/IllegalOrphanException.java" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/exceptions/IllegalOrphanException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/exceptions/NonexistentEntityException.java" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/exceptions/NonexistentEntityException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/exceptions/PreexistingEntityException.java" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/exceptions/PreexistingEntityException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/servicios.java" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/src/aulavirtual/servicios.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/src/basededatos/CargaEducativa.java" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/src/basededatos/CargaEducativa.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/src/basededatos/CargaEducativaPK.java" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/src/basededatos/CargaEducativaPK.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/src/basededatos/Clase.java" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/src/basededatos/Clase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/src/basededatos/Periodo.java" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/src/basededatos/Periodo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Servidor/aulavirtual/src/basededatos/Usuario.java" afterPath="$PROJECT_DIR$/../Servidor/aulavirtual/src/basededatos/Usuario.java" />
+    </list>
+    <ignored path="AulaVirtualClient.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="AulaVirtualClient" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Window_classes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clases/Window_classes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Implementacion.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clases/Implementacion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Server.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clases/Server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Window_virtual_classroom.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Clases/Window_virtual_classroom.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3231">
+              <caret line="132" column="43" selection-start-line="132" selection-start-column="43" selection-end-line="132" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Window_login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clases/Window_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="166" column="12" selection-start-line="166" selection-start-column="12" selection-end-line="166" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="servicios.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clases/gen-py/aulavirtual/servicios.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7598">
+              <caret line="779" column="0" selection-start-line="779" selection-start-column="0" selection-end-line="779" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Window_registry_student.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clases/Window_registry_student.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="205" column="4" selection-start-line="205" selection-start-column="4" selection-end-line="205" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clases/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Window_registry_class.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clases/Window_registry_class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Clases/gen-py/aulavirtual/Main.py" />
+        <option value="$PROJECT_DIR$/Clases/Window_registry.py" />
+        <option value="$PROJECT_DIR$/Clases/Window_registry_teacher.py" />
+        <option value="$PROJECT_DIR$/Clases/Window_admin.py" />
+        <option value="$PROJECT_DIR$/Clases/Window_registry_class.py" />
+        <option value="$PROJECT_DIR$/Clases/gen-py/aulavirtual/servicios.py" />
+        <option value="$PROJECT_DIR$/PruebaDOS.py" />
+        <option value="$PROJECT_DIR$/Clases/SegundaPrueba.py" />
+        <option value="$PROJECT_DIR$/Clases/Main.py" />
+        <option value="$PROJECT_DIR$/Clases/Prueba.py" />
+        <option value="$PROJECT_DIR$/Clases/Window_classes.py" />
+        <option value="$PROJECT_DIR$/Clases/Window_inscribe_class.py" />
+        <option value="$PROJECT_DIR$/Clases/Implementacion.py" />
+        <option value="$PROJECT_DIR$/Clases/Server.py" />
+        <option value="$PROJECT_DIR$/Clases/Window_virtual_classroom.py" />
+        <option value="$PROJECT_DIR$/Clases/Window_login.py" />
+        <option value="$PROJECT_DIR$/Clases/Window_registry_student.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration default="false" name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Clases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AulaVirtualClient" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Clases/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Prueba" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Clases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Clases" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Clases/Prueba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Clases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Clases" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Clases/Server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Window_virtual_classroom" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Clases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Clases" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Clases/Window_virtual_classroom.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Window_inscribe_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Clases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Clases" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Clases/Window_inscribe_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AulaVirtualClient" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AulaVirtualClient" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AulaVirtualClient" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AulaVirtualClient" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AulaVirtualClient" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AulaVirtualClient" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AulaVirtualClient" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Prueba" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Server" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Window_virtual_classroom" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Window_inscribe_class" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Window_inscribe_class" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Prueba" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Window_virtual_classroom" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10340d65-9567-4c27-9669-79f94ac1ca55" name="Default" comment="" />
+      <created>1491515225500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491515225500</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17829457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27083334" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="SonarQube" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23253012" sideWeight="0.49753347" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39638555" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07361111" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27083334" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23253012" sideWeight="0.49753347" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17829457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07361111" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SonarQube" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39638555" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Clases/Prueba.py</url>
+          <line>124</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Clases/Window_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_registry_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_registry_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3330">
+          <caret line="222" column="23" selection-start-line="222" selection-start-column="23" selection-end-line="222" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_registry_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3450">
+          <caret line="230" column="31" selection-start-line="230" selection-start-column="31" selection-end-line="230" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_registry_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3450">
+          <caret line="230" column="31" selection-start-line="230" selection-start-column="31" selection-end-line="230" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_registry_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_registry_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_registry_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_registry_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_registry_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_registry_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_registry_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_registry_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_registry_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/servicios.py" />
+    <entry file="file://$PROJECT_DIR$/Clases/gen-py/aulavirtual/Main.py" />
+    <entry file="file://$PROJECT_DIR$/Clases/Window_registry_teacher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="147" column="12" selection-start-line="147" selection-start-column="12" selection-end-line="147" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="963" column="0" selection-start-line="963" selection-start-column="0" selection-end-line="963" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="97" column="4" selection-start-line="97" selection-start-column="4" selection-end-line="99" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PruebaDOS.py" />
+    <entry file="file://$PROJECT_DIR$/Clases/SegundaPrueba.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/servidor/lib/python3.5/site-packages/thrift/compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/servidor/lib/python3.5/site-packages/thrift/protocol/TProtocol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="120" column="0" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/servidor/lib/python3.5/site-packages/thrift/transport/TTransport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="151" column="0" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/servidor/lib/python3.5/site-packages/thrift/transport/TSocket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Prueba.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1496777205000" expanded="true" signature="923:948" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_registry_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_inscribe_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1944">
+          <caret line="200" column="46" selection-start-line="200" selection-start-column="46" selection-end-line="200" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/servidor/lib/python3.5/site-packages/thrift/protocol/TBinaryProtocol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/servidor/lib/python3.5/site-packages/thrift/server/TServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/gen-py/aulavirtual/servicios.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7598">
+          <caret line="779" column="0" selection-start-line="779" selection-start-column="0" selection-end-line="779" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Implementacion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_registry_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="205" column="4" selection-start-line="205" selection-start-column="4" selection-end-line="205" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="166" column="12" selection-start-line="166" selection-start-column="12" selection-end-line="166" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases/Window_virtual_classroom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3231">
+          <caret line="132" column="43" selection-start-line="132" selection-start-column="43" selection-end-line="132" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
